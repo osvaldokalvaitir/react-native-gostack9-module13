@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Testes em React Native usando Native Testing Library, jest-native e @types/jest.
+Testes no React Native usando Native Testing Library, jest-native e @types/jest.
 
 ## Índice
 
